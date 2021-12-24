@@ -1,0 +1,16 @@
+# frozen_string_literal: true
+
+A_LINE_DOWNCASE = 'àáạảãâầấậẩẫăằắặẳẵ'
+A_LINE_UPCASE   = 'ÀÁẠẢÃĂẰẮẶẲẴÂẦẤẬẨẪ'
+O_LINE_DOWNCASE = 'òóọỏõôồốộổỗơờớợởỡ'
+O_LINE_UPCASE   = 'ÒÓỌỎÕÔỒỐỘỔỖƠỜỚỢỞỠ'
+E_LINE_DOWNCASE = 'èéẹẻẽêềếệểễ'
+E_LINE_UPCASE   = 'ÈÉẸẺẼÊỀẾỆỂỄ'
+U_LINE_DOWNCASE = 'ùúụủũưừứựửữ'
+U_LINE_UPCASE   = 'ƯỪỨỰỬỮÙÚỤỦŨ'
+I_LINE_DOWNCASE = 'ìíịỉĩ'
+I_LINE_UPCASE   = 'ÌÍỊỈĨ'
+Y_LINE_DOWNCASE = 'ỳýỵỷỹ'
+Y_LINE_UPCASE   = 'ỲÝỴỶỸ'
+D_LINE_DOWNCASE = 'đ'
+D_LINE_UPCASE   = 'Đ'
