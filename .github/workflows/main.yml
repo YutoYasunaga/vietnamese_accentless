@@ -28,4 +28,4 @@ jobs:
     - name: Check code
       run: bundle exec rubocop --fail-level warning --display-only-fail-level-offenses
     - name: Test
-      run: bundle exec rspec
+      run: bin/rspec
